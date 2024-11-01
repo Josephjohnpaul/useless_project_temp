@@ -1,63 +1,68 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+#Wacky Web 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: The Idle Innovators
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Dayroan - RIT
+- Member 2: Joseph John Paul - RIT
+- Member 3: Abin Dev E K - RIT
 
 ### Project Description
-[2-3 lines about what your project does]
+For our "Useless Projects" makeathon, we created four quirky HTML programs:
+1. Tic-Tac-Toe: A nostalgic twist on the classic game for friendly competition.
+2. Pickup Line Bot: Generates cheesy pickup lines for a good laugh
+3. Emotional Bot: Simulates emotional responses, offering a glimpse into AI empathy.
+4. appreciation Bot: Delivers playful *appreciations* for humorous banter.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+boredem and lonliness (no one is alone in colleage)
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Chat with real time bots (get some real friends)
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- Javascript
+- HTML,CSS
 - [Libraries used]
-- [Tools used]
+- Chatgpt, Merlin ai
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- none
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+download html files
 
 # Run
-[commands]
+Run Wackyweb.html file in any browser preferably chrome
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/48e0c7c7-2e64-4014-864c-de45358538f8)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Main page of our web
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![image](https://github.com/user-attachments/assets/4d79662e-f07a-486c-a556-d95ccca02f7a)
+
+emotional bot preview
+
+![image](https://github.com/user-attachments/assets/640d5dc8-6c75-4da8-a902-b96edcb92465)
+
+Rizzbot preview
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![WhatsApp Image 2024-11-02 at 03 17 52_bd8a7808](https://github.com/user-attachments/assets/08bff71d-6d46-41aa-b560-3d21218b3442)
+
 
 For Hardware:
 
@@ -83,13 +88,10 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Dayroan sajii: prompt engineering  
+- Joseph John Paul: Coding
+- Abin Dev E K: Idea and content pitching
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
